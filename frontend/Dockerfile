@@ -1,6 +1,6 @@
 FROM ubuntu:latest
-LABEL APP="StudentappFE"
-LABEL DevopsEngg="Rahul"
+LABEL APP="Studentapp"
+LABEL DevopsEngg="akshay"
 
 
 RUN apt-get update && \
